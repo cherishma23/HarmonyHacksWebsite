@@ -28,10 +28,13 @@
         "milestone_image": "/HarmonyHacksWebsite/assets/pictures/firstHackathon/firstWomensHackathonShowcase4.jpg"
     },
     {
-        "id": 5,
-        "milestone_date": "April 25, 2025",
-        "milestone_title": "HH x AWM x Makery Collab: Caps and Vision Maps",
-        "milestone_description": "This was our first collaborative event, co-hosted with the Association for Women in Mathematics (AWM). Held at the CSUSM Makery, the \"Caps and Vision Maps\" event provided students with an opportunity to celebrate milestones and set future intentions. Graduating seniors decorated their caps in preparation for commencement, while other attendees created vision boards to reflect their academic goals and aspirations. The event promoted creativity, empowerment, and cross-organization community among women in STEM.",
-        "milestone_image": "/HarmonyHacksWebsite/assets/pictures/capsAndVisionMaps/capsAndVisionMaps13.jpg"
+        
+            "id": 5,
+            "milestone_date": "April 25, 2025",
+            "milestone_title": "HH x AWM x Makery Collab: Caps and Vision Maps",
+            "milestone_description": "This was our first collaborative event, co-hosted with the Association for Women in Mathematics (AWM). Held at the CSUSM Makery, the \"Caps and Vision Maps\" event provided students with an opportunity to celebrate milestones and set future intentions. Graduating seniors decorated their caps in preparation for commencement, while other attendees created vision boards to reflect their academic goals and aspirations. The event promoted creativity, empowerment, and cross-organization community among women in STEM.",
+            "milestone_image": "/HarmonyHacksWebsite/assets/pictures/capsAndVisionMaps/capsAndVisionMaps13.jpg"
+          
+          
     }
 ]
