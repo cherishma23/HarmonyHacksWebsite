@@ -4,6 +4,7 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
+  base: '/HarmonyHacksWebsite/', // 👈 ADD THIS LINE!
   server: {
     host: '0.0.0.0',
     proxy: {
