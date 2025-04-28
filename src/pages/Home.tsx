@@ -17,12 +17,12 @@ const Home = () => {
   };
 
   const images = [
-    "../assets/pictures/firstHackathon/firstWomensHackathonShowcase4.jpg",
-    "../assets/pictures/firstStudentOrgFair/firstStudentOrgFair4.jpg",
-    "../assets/pictures/firstGbm/firstGbm2.jpg",
-    "../assets/pictures/superStemSaturday/superStemSaturday3.jpg",
-    "../assets/pictures/galentines/galentines5.jpg",
-    "../assets/pictures/firstGbm/firstGbm7.jpg",
+    "/HarmonyHacksWebsite/assets/pictures/firstHackathon/firstWomensHackathonShowcase4.jpg",
+    "/HarmonyHacksWebsite/assets/pictures/firstStudentOrgFair/firstStudentOrgFair4.jpg",
+    "/HarmonyHacksWebsite/assets/pictures/firstGbm/firstGbm2.jpg",
+    "/HarmonyHacksWebsite/assets/pictures/superStemSaturday/superStemSaturday3.jpg",
+    "/HarmonyHacksWebsite/assets/pictures/galentines/galentines5.jpg",
+    "/HarmonyHacksWebsite/assets/pictures/firstGbm/firstGbm7.jpg",
   ];
 
   const PhotoGalleryHeader: React.FC = () => {
@@ -90,7 +90,7 @@ const ClubOverview = () => {
             </p>
         </div>
       <div>
-        <img className="club-overview-img" src="/assets/pictures/firstStudentOrgFair/firstStudentOrgFair4.jpg" />
+        <img className="club-overview-img" src="/HarmonyHacksWebsite/assets/pictures/firstStudentOrgFair/firstStudentOrgFair4.jpg" />
       </div>
       </div>
     </section>
@@ -101,7 +101,7 @@ const MissionStatement = () => {
   return (
     <section className= {"mission-statement"} >
       <div className= "mission-statement-container">
-      <img className="mission-statement-img" src="/assets/pictures/firstHackathon/firstWomensHackathonKickoff4.jpg" />
+      <img className="mission-statement-img" src="/HarmonyHacksWebsite/assets/pictures/firstHackathon/firstWomensHackathonKickoff4.jpg" />
         <div className="mission-statement-content-div">
           <div>
             <h2 className = "page-h2 mission-statement-h2 ">♡ Mission Statement </h2>
@@ -182,7 +182,7 @@ const JoinUs = () => {
           
         <div className="join-us-content-div">
         <div>
-          <img className = "join-us-img" src="../assets/pictures/firstGbm/firstGbm10.jpg" />
+          <img className = "join-us-img" src="/HarmonyHacksWebsite/assets/pictures/firstGbm/firstGbm10.jpg" />
         </div>
         <br></br>
           <div className="join-statement-div"></div>
